@@ -20,7 +20,7 @@ This nodejs api application on e-commerce application
 
 <h3>For Products</h3>
 
-<p align="left"> <a href="https://grafana.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/grafana/grafana-icon.svg" alt="grafana" width="40" height="40"/> </a> </p><h4>Create Product -> http://localhost:4000/api/v1/products/new</h4>
+<h4 align="left"><img src="https://www.vectorlogo.zone/logos/grafana/grafana-icon.svg" alt="grafana" width="40" height="40"/> Create Product -> http://localhost:4000/api/v1/products/new </4>
 <p>body</p>
 {
 "name":"Product 1",
